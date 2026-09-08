@@ -2,29 +2,27 @@
 
 ## ✨ Highlights:
 
-- 💬 Full Stack Real-Time Chat Application built from scratch
-- ⚛️ Frontend with React, Tailwind CSS & Hero UI
-- 🚀 Backend with Node.js & Express.js
+## 🚀 Features
+
+- 💬 Real-time one-to-one messaging
+- ⚛️ React frontend with Tailwind CSS & Hero UI
+- 🚀 Node.js & Express.js backend
 - 🔐 Authentication with Clerk
-- 🗄️ MongoDB Database Integration
-- ⚡ Real-Time Messaging with Socket.io
-- 🟢 Online User Presence Tracking
-- 🖼️ Image & Video Sharing Support
-- 🎨 Light & Dark Mode
-- 🖌️ 13 Custom Wallpapers
-- 🌈 11 Beautiful Themes
-- ⌨️ Optional Keyboard Sound Effects
-- 🔌 Build Your Own WebSocket Server
-- 🚫 No Firebase or Supabase Required
-- 📤 Media Uploads & Optimization with ImageKit
-- 🔔 Webhooks Explained & Implemented
-- ⏰ Cron Jobs from Scratch
-- 🛡️ Express Middleware Deep Dive
-- 📁 File Uploads & Media Handling
-- 🌐 Deploy Your App with a Live URL
-- 🆓 100% Free Setup to Get Started
-- 📂 Full Source Code Included
-- 🎯 Resume-Ready Production-Style Project
+- 🗄️ MongoDB database integration
+- ⚡ Real-time communication with Socket.io
+- 🟢 Online/offline user presence tracking
+- 🖼️ Image & video sharing
+- 📤 Media uploads & optimization with ImageKit
+- 🎨 Light & dark mode
+- 🌈 11 beautiful custom themes
+- 🖌️ 13 custom chat wallpapers
+- ⌨️ Optional keyboard sound effects
+- 🔌 Custom WebSocket server
+- 🔔 Webhook integration
+- ⏰ Cron jobs for background/scheduled tasks
+- 🛡️ Express middleware architecture
+- 📁 File upload & media handling
+- 🚫 No Firebase or Supabase
 
 ---
 
